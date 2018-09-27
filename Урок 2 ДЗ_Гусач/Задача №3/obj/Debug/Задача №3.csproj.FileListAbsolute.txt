@@ -1,0 +1,7 @@
+C:\Users\Игорь\Desktop\CSharp-level-1\Урок 2 ДЗ_Гусач\Задача №3\bin\Debug\Задача №3.exe.config
+C:\Users\Игорь\Desktop\CSharp-level-1\Урок 2 ДЗ_Гусач\Задача №3\bin\Debug\Задача №3.exe
+C:\Users\Игорь\Desktop\CSharp-level-1\Урок 2 ДЗ_Гусач\Задача №3\bin\Debug\Задача №3.pdb
+C:\Users\Игорь\Desktop\CSharp-level-1\Урок 2 ДЗ_Гусач\Задача №3\obj\Debug\Задача №3.csprojAssemblyReference.cache
+C:\Users\Игорь\Desktop\CSharp-level-1\Урок 2 ДЗ_Гусач\Задача №3\obj\Debug\Задача №3.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Desktop\CSharp-level-1\Урок 2 ДЗ_Гусач\Задача №3\obj\Debug\Задача №3.exe
+C:\Users\Игорь\Desktop\CSharp-level-1\Урок 2 ДЗ_Гусач\Задача №3\obj\Debug\Задача №3.pdb
