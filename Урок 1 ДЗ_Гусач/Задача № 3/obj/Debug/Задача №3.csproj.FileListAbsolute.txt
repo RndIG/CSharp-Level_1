@@ -1,0 +1,14 @@
+C:\Users\Игорь\Google Диск\Курсы\С#\C# 1 уровень практика\Урок 1 ДЗ_Гусач\Задача № 3\bin\Debug\Задача № 3.exe.config
+C:\Users\Игорь\Google Диск\Курсы\С#\C# 1 уровень практика\Урок 1 ДЗ_Гусач\Задача № 3\bin\Debug\Задача № 3.exe
+C:\Users\Игорь\Google Диск\Курсы\С#\C# 1 уровень практика\Урок 1 ДЗ_Гусач\Задача № 3\bin\Debug\Задача № 3.pdb
+C:\Users\Игорь\Google Диск\Курсы\С#\C# 1 уровень практика\Урок 1 ДЗ_Гусач\Задача № 3\obj\Debug\Задача №3.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Google Диск\Курсы\С#\C# 1 уровень практика\Урок 1 ДЗ_Гусач\Задача № 3\obj\Debug\Задача № 3.exe
+C:\Users\Игорь\Google Диск\Курсы\С#\C# 1 уровень практика\Урок 1 ДЗ_Гусач\Задача № 3\obj\Debug\Задача № 3.pdb
+C:\Users\Игорь\Google Диск\Курсы\С#\C# 1 уровень практика\Урок 1 ДЗ_Гусач\Задача № 3\obj\Debug\Задача №3.csprojAssemblyReference.cache
+C:\Users\Игорь\Desktop\GIT\Урок 1 ДЗ_Гусач\Задача № 3\bin\Debug\Задача № 3.exe.config
+C:\Users\Игорь\Desktop\GIT\Урок 1 ДЗ_Гусач\Задача № 3\bin\Debug\Задача № 3.exe
+C:\Users\Игорь\Desktop\GIT\Урок 1 ДЗ_Гусач\Задача № 3\bin\Debug\Задача № 3.pdb
+C:\Users\Игорь\Desktop\GIT\Урок 1 ДЗ_Гусач\Задача № 3\obj\Debug\Задача №3.csprojAssemblyReference.cache
+C:\Users\Игорь\Desktop\GIT\Урок 1 ДЗ_Гусач\Задача № 3\obj\Debug\Задача №3.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Desktop\GIT\Урок 1 ДЗ_Гусач\Задача № 3\obj\Debug\Задача № 3.exe
+C:\Users\Игорь\Desktop\GIT\Урок 1 ДЗ_Гусач\Задача № 3\obj\Debug\Задача № 3.pdb

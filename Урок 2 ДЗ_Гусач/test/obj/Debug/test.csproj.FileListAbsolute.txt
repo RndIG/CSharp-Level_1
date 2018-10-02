@@ -1,0 +1,7 @@
+C:\Users\Игорь\Desktop\CSharp-level-1\Урок 2 ДЗ_Гусач\test\bin\Debug\test.exe.config
+C:\Users\Игорь\Desktop\CSharp-level-1\Урок 2 ДЗ_Гусач\test\bin\Debug\test.exe
+C:\Users\Игорь\Desktop\CSharp-level-1\Урок 2 ДЗ_Гусач\test\bin\Debug\test.pdb
+C:\Users\Игорь\Desktop\CSharp-level-1\Урок 2 ДЗ_Гусач\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Игорь\Desktop\CSharp-level-1\Урок 2 ДЗ_Гусач\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Desktop\CSharp-level-1\Урок 2 ДЗ_Гусач\test\obj\Debug\test.exe
+C:\Users\Игорь\Desktop\CSharp-level-1\Урок 2 ДЗ_Гусач\test\obj\Debug\test.pdb

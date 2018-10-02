@@ -1,0 +1,7 @@
+C:\Users\Игорь\Desktop\GIT\Урок 1 ДЗ_Гусач\Задача №6\obj\Debug\Задача №6.csprojAssemblyReference.cache
+C:\Users\Игорь\Desktop\GIT\Урок 1 ДЗ_Гусач\Задача №6\obj\Debug\Задача №6.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Desktop\GIT\Урок 1 ДЗ_Гусач\Задача №6\bin\Debug\Задача №6.exe.config
+C:\Users\Игорь\Desktop\GIT\Урок 1 ДЗ_Гусач\Задача №6\bin\Debug\Задача №6.exe
+C:\Users\Игорь\Desktop\GIT\Урок 1 ДЗ_Гусач\Задача №6\bin\Debug\Задача №6.pdb
+C:\Users\Игорь\Desktop\GIT\Урок 1 ДЗ_Гусач\Задача №6\obj\Debug\Задача №6.exe
+C:\Users\Игорь\Desktop\GIT\Урок 1 ДЗ_Гусач\Задача №6\obj\Debug\Задача №6.pdb
